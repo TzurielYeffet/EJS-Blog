@@ -1,0 +1,17 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "This is my first blog using EJS",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tzuriel Yeffet",
+  "license": "ISC"
+}
